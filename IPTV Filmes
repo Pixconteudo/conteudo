@@ -60,6 +60,8 @@ https://cld.pt/dl/download/dd41794a-1f3b-46e5-b684-7cb60fa37501/eu_sou_a_lenda.m
 
 #FILMES: F#
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gJuWIl3xQ0QAxwIWnxsoT56bcfH.jpg" group-title="F" ,Freddy vs. Jason
+https://cld.pt/dl/download/2d26dd72-44c2-471c-b06b-35590638e450/freddy_vs_jason.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="F" ,Frozen 2
 https://cld.pt/dl/download/70928db9-c108-4199-b2c1-20092264b0f6/Frozen_2.mp4
 
