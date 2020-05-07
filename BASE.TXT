@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR green]LIVRE[/COLOR]</name>
+<thumbnail>https://i.imgur.com/S23brEG_d.webp</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>http://www.portalimprensa.com.br/content_file_storage/2015/11/05/classificacao.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR green]Filmes sem violência, nudez, palavras de baixo calão e educativos. Filmes de animação, ação e aventura para toda a família se divertir junta.[/COLOR]</info>
 </channel>
 </channels>
 
