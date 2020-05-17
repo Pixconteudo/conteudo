@@ -2,6 +2,8 @@
 
 #FILMES#
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7clTvRa9RRh78c8epoC0YrNZoD6.jpg" group-title="#FILMES#" ,A Voz Do Silêncio
+https://cld.pt/dl/download/255960ce-42b7-4bd0-9a19-5dcf51a3a1b5/koe_no_katachi.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
 http://cdn01.fluehost.com/f/boku-no-hero-2-herois/hd.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eKqoL4PaZeesxFDaSEiTGq9hKL8.jpg" group-title="#FILMES#" ,Cinco Centímetros Por Segundo
@@ -16,8 +18,6 @@ https://cld.pt/dl/download/9babf95f-77be-445c-a648-8a27dc44e979/dragon_ball_z_o_
 https://cld.pt/dl/download/d72b2a1b-9364-425f-a5a2-6ec0a5a98743/dragon_ball_z_o_ataque_do_drag%C3%A3o.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVlkvo8FvttSFPuJ7y9QO0jCYMG.jpg" group-title="#FILMES#" ,Dragon Ball Z: O Retorno do Guerreiro Lendário
 https://cld.pt/dl/download/369fb250-1021-4b93-9b63-3e53b5cd4333/dragon_Ball_z_broly_o_retorno_do_guerreiro_lend%C3%A1rio.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7clTvRa9RRh78c8epoC0YrNZoD6.jpg" group-title="K" ,Koe No Katachi
-https://cld.pt/dl/download/255960ce-42b7-4bd0-9a19-5dcf51a3a1b5/koe_no_katachi.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/63hSJqY1RRdAk76ZJM0OmLUjPZL.jpg" group-title="#FILMES#" ,O Meu Vizinho Totoro
 https://ns570902.ip-51-161-15.net/Uploads/Filmes/T/tonari-no-totoro-dublado/filme-01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="#FILMES#" ,Os Sete Pecados Capitais: Prisioneiros dos Céus
